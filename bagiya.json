@@ -1,0 +1,243 @@
+{
+  "data": {
+    "alerts": [
+      {
+        "alertId": "Al001",
+        "alertMessage": "Sunday \n5:00 PM to 6:30 PM",
+        "alertShortMessage": "Sunday \n5:00 PM to 6:30 PM",
+        "alertTitle": "Satsang Invitation",
+        "date": "28-06-2026",
+        "location": "Address: Gali No 1\nBihari Colony, Delhi 32\nOpposite Bhagat Dairy",
+        "star": false
+      }
+    ],
+    "bhajans": [
+      {
+        "bhajanId": "7ZJfMSL0bXQ",
+        "bhajanLink": "https://www.youtube-nocookie.com/embed/7ZJfMSL0bXQ?si=JaSAYKrFtAprIDXb",
+        "bhajanName": "शुक्रानों के गीत हम गाएँ",
+        "date": "09-06-2026",
+        "star": false
+      },
+      {
+        "bhajanId": "Quj9LNKxi2c",
+        "bhajanLink": "https://www.youtube-nocookie.com/embed/Quj9LNKxi2c?si=3MzI8fEboGXphL83",
+        "bhajanName": "Tere Ahsaan Ka Badla",
+        "date": "05-06-2026",
+        "star": false
+      },
+      {
+        "bhajanId": "hSvE3rTvsdw",
+        "bhajanLink": "https://www.youtube-nocookie.com/embed/hSvE3rTvsdw?si=inRt8MmkGd3OMWQT",
+        "bhajanName": "Meri Jindgi Me Kya Tha",
+        "date": "07-06-2026",
+        "star": false
+      },
+      {
+        "bhajanId": "L_NyFOcS-co",
+        "bhajanLink": "https://www.youtube-nocookie.com/embed/L_NyFOcS-co?si=-zTC4mDb8sApQSLg",
+        "bhajanName": "Poora Dhyan Laga",
+        "date": "03-06-2026",
+        "star": false
+      },
+      {
+        "bhajanId": "0Z507oAiopk",
+        "bhajanLink": "https://www.youtube-nocookie.com/embed/0Z507oAiopk?si=5ivjY3ADBYltk38u",
+        "bhajanName": "Hai Manushya Janam Sona",
+        "date": "10-06-2026",
+        "star": false
+      },
+      {
+        "bhajanId": "g_ojI9i7NpQ",
+        "bhajanLink": "https://www.youtube-nocookie.com/embed/g_ojI9i7NpQ?si=jVVEp7K3TpoirdXe",
+        "bhajanName": "Oh Re Gyan Mile Guru Ke Mukh Se",
+        "date": "07-06-2026",
+        "star": true
+      }
+    ],
+    "pearls": [
+      {
+        "date": "22-06-2026",
+        "pearlId": "Px001",
+        "pearlMessage": "Yesterday is gone, tomorrow is a mystery, but today is a gift. That is why it is called the present. Make the most of it.",
+        "pearlMessageHindi": "बीता हुआ कल जा चुका है, आने वाला कल एक रहस्य है, लेकिन आज एक उपहार है। इसीलिए इसे 'वर्तमान' कहते हैं। इसका भरपूर लाभ उठाएं।",
+        "star": false,
+        "imgUrl": "https://brave-brown-13rfzsiq.edgeone.dev/guruji_img3.png"
+      },
+      {
+        "date": "22-06-2026",
+        "pearlId": "Px002",
+        "pearlMessage": "Do not let the shadows of yesterday spoil the sunshine of today. Your peace of mind is your greatest wealth.",
+        "pearlMessageHindi": "बीते हुए कल की परछाई को अपने आज की धूप खराब न करने दें। आपकी मानसिक शांति ही आपका सबसे बड़ा धन है।",
+        "star": false,
+        "imgUrl": "https://neighbouring-peach-m5f5amzs.edgeone.dev/WhatsApp%20Image%202026-06-18%20at%2018.45.59%20(1).jpeg"
+      },
+      {
+        "date": "22-06-2026",
+        "pearlId": "Px003",
+        "pearlMessage": "Small, positive steps taken every day lead to grand achievements over time. Trust the process and keep moving.",
+        "pearlMessageHindi": "हर दिन उठाए गए छोटे और सकारात्मक कदम समय के साथ बड़ी उपलब्धियों की ओर ले जाते हैं। प्रक्रिया पर भरोसा रखें और आगे बढ़ते रहें।",
+        "star": false,
+        "imgUrl": "https://brave-brown-13rfzsiq.edgeone.dev/guruji_img3.png"
+      },
+      {
+        "date": "22-06-2026",
+        "pearlId": "Px004",
+        "pearlMessage": "The world looks beautiful when you change your perspective. Look for the good in every situation and watch your life transform.",
+        "pearlMessageHindi": "जब आप अपना दृष्टिकोण बदलते हैं, तो दुनिया खूबसूरत दिखने लगती है। हर परिस्थिति में अच्छाई तलाशें और अपने जीवन को बदलते हुए देखें।",
+        "star": false,
+        "imgUrl": "https://neighbouring-peach-m5f5amzs.edgeone.dev/WhatsApp%20Image%202026-06-18%20at%2018.45.59%20(1).jpeg"
+      },
+      {
+        "date": "22-06-2020",
+        "pearlId": "Px005",
+        "pearlMessage": "You are capable of more than you know. Believe in your potential, work with dedication, and the universe will align for you",
+        "pearlMessageHindi": "आप जितना जानते हैं, आप उससे कहीं अधिक सक्षम हैं। अपनी क्षमता पर विश्वास करें, समर्पण के साथ काम करें, और पूरी कायनात आपका साथ देगी।",
+        "star": false,
+        "imgUrl": "https://neighbouring-peach-m5f5amzs.edgeone.dev/WhatsApp%20Image%202026-06-18%20at%2018.45.59%20(1).jpeg"
+      }
+    ],
+    "vachans": [
+      {
+        "date": "16-06-2026",
+        "star": false,
+        "vachanId": "Vc001",
+        "vachanMessage": "",
+        "vachanMessageEnglish": "",
+        "vachanMessageHindi": "हरि ओम गुरुजी अमृतवाणी भगवान का दूसरा नाम विश्वास भक्ति समर्पण और ईमान है भगवान के अनंत नाम है और सभी नाम भगवान के हैं शीतल नाम भगवान का है और स्वयं शीतल भगवान है मेरे और भगवान के रास्ते में कुछ भी आए तो उसे माइनस कर दे जीवन की हर बात में भगवान डाल दे अवस्था जीवन की अवस्थाएं अनुकूल होने पर ईमान रहता है परंतु अगर अवस्थाएं विपरीत हो तो वह  डगमगाने लगता है, यह  ईमान सच्चा नहीं झूठ है कंडीशनल है, आज गुरुजी ने हमें अपने ईमान को दी कंडीशन करना सिखाए भगवान जब हमें ज्ञान देते हैं तो उसे सत्य की कसौटी पर परख कर अनुभव तक लेकर जाएं फिर उसे अनुभव में ईमान आ जाता है करो ना शिकायत करो ना पुकार दो दिन की जिंदगी है शुक्र में गुजर, किसी भी समस्या में दुखी होने से हम उसे समस्या को और अधिक बढ़ा देते हैं जीवन में जैसी भी परेशानी आए उसे परेशानी में भगवान का दर्शन करें परेशानी का स्वरूप बदल जाएगा माया में मायापति का दर्शन करें, द स्टोन विच कनॉट बे लेफ्ट शोल्ड बे केस्ट, हर घटित घटना में कोई भलाई ही छुपी हुई होती है जो समय के साथ प्रकट होती है प्रभु ने ऐसी ही रीत बनाई है हमें अपना ईमान नहीं छोड़ना चाहिए गुरुजी की हर बात को दिल से माने जुबा से नहीं पूर्ण ईमान आने से गुरु शिष्य का भेद खत्म हो जाता है सब संशय और भरम खत्म हो जाते हैं गुरुजी और शिष्य एक हो जाते हैं शुकराना गुरुजी",
+        "yogiName": "Sant Sheetal Bhatiyaji"
+      },
+      {
+        "date": "20-06-2026",
+        "star": true,
+        "vachanId": "Vc002",
+        "vachanMessage": "",
+        "vachanMessageEnglish": "",
+        "vachanMessageHindi": "हरि ओम गुरुजी\nगुरुजी आज आपने समझाया कि शरीर के साथ हमारे पहले के प्रारब्ध साथ ही आते हैं। जैसे बच्चे का जन्म होते ही उसको joundius हो जाता हैं और वो icu में admit हो जाता हैं।100 बच्चों में केवल एक बच्चे को दिक्कत होती हैं।आपने बताया कि कई बच्चे handicap होते हैं कई बच्चों की मानसिक स्थिति सही नहीं होती हैं भगवान ने उनको भी कितना अच्छा नाम दिया हैं special child। आपने बताया कि उन बच्चों को साधारण नहीं special बच्चे कहा गया हैं।आपने बताया कि जिसने ये अध्यात्म सिख लिया वो अपनी देह से अपने मन से प्राकृतिक से ऊपर हो जाता हैं।आपने बताया कि कोई अपने दुखों से दुखी नहीं हैं पत्नी और बच्चों के दुखों से दुखी हैं।आज आपने नाव का उदाहरण देकर भी बहुत अच्छा समझाया कि आप हरि ओम गुरुजी \nगुरुजी आज आपने समझाया कि जैसे आप मक्खन निकालते हो जब तक मक्खन नहीं निकल जाता आप लगे रहते हो उसमें ठंडा पानी डालते हो उसका temprature देखते हो।आपने बताया कि आपको मक्खन का example इसलिए दिया कि मक्खन निकालने में charning होती हैं ऐसे ही सत्संग में आने से आपके विचारों की charning होती हैं।आपने बताया कि charning का मतलब हैं विचार से ये विचार आपका 24 घंटे चलना चाहिए।आपने बताया कि आपका सोते हुए भी आपका विचार चलता हैं जैसे आप कोई विचार सोच के सोते हो ओर सुबह उठते ही आपके अंदर वही विचार आता हैं।जितना अधिक विचार होंगे उतना अधिक विवेक जागेगा।आपने बताया कि अकसर योगी बोलते हैं कि घर में गुस्सा आ जाता हैं expetion रख लेते हैं ऐसा इसलिए होता हैं क्योंकि हमारा विवेक नहीं जागा होता।इस पर आपने दांतों का उदाहरण देकर समझाया कि आपका naturally ही विवेक जागा हुआ हैं कि दांतों के लिए brush करना बहुत जरूरी हैं नहीं तो आपके दांत खराब हो जायेगे लेकिन एक छोटे बच्चे का विवेक नहीं जागा हुआ इसलिए उसको बार बार कहना पड़ता है कि brush कर लो।आपने बताया कि अनुभव के साथ विचार करोगे तो परिणाम अच्छा होगा और अनुभव रहित विचार करोगे तो परिणाम अच्छा नहीं होगा।आपने बताया कि विचार की चाबी हैं विवेक ओर विवेक की एक शाखा हैं अनुभव।आपने बताया कि सत्संग बिन विवेक नहीं।सत्संग आपको ये अनुभव करवाता हैं कि जब आप सत्संग में बैठते हो तो आपका बाहर से conection टूट जाता हैं आपका देह से भी कनेक्शन टूट जाता हैं और आपका विवेक जाग्रत हो जाता हैं।आपने बताया कि बाहर आपका विवेक कितना जाग्रत होता हैं कि यदि शराब भी पी रखी हैं तो भी रात को दुकान बंद करनी याद रहती हैं।आपने बताया कि आपका विवेक आपके साथ पर निर्भर करता हैं आप का संग कैसा हैं।यदि आपको किसी booki का साथ मिल जाए तो आप भी उसी की तरह काम करने लग जाओगे अपना विवेक ऐसा जगाओ कि आपसे मिल कर सब कहे कि हमे भी ले चलो दादा भगवान की बगिया में।आपने बताया कि आपके behaive से आपके घर से पता चलता है कि आपका विवेक कितना जाग्रत हैं।आपने बताया कि आप घर का कोई समान लेने जाते हैं और कुछ सामान भूल जाते हैं क्योंकि आपने विचार नहीं किया होता आपकी अलमारी कैसी हैं आपका डस्टबिन कितना साफ हैं उस पर आपने किसी पॉलीथिन लगा रखी हैं ऐसी छोटी छोटी बातों से आपका विवेक पता चलता हैं।आपने बताया कि जो विचार से नहीं चलता उसका जीवन जानवर के समान हैं और यदि आप विचार कर कर के शून्य की यात्रा तक पहुंच सकते हो।आपने बताया कि कई अजीब अजीब से विचार करके डिप्रेशन में चले जाते हैं।इस पर आपने बहुत अच्छा उदाहरण दिया कि एक बार एक व्यक्ति किसी न्यूरो वाले डॉ के पास जाता हैं वहीं बैठे बैठे सोचता हैं कि इस dr ने अपनी पढ़ाई में इतना पैसा लगाया क्लीनिक बनाया और इसके पास बिल्कुल भी patient नहीं हैं वो dr को बोलता हैं कि मुझे अजीब अजीब से विचार आते हैं डॉ ने पुछा कैसे तो उसने बताया कि आपने इतना पैसा लगाया ओर आपके clinic में कोई आता ही नहीं उसने dr को ही बीमार कर दिया।आपने बताया कि दादा कहते थे कि जो थोड़ा जल्दी उठकर काम कर लेता हैं उसको 50% अधिक समय मिलता हैं।आपने बताया कि दादा के सत्संग में 500 योगी सत्संग सुन कर भोजन करते थे और किसी को पता भी नहीं चलता था।आपने बताया कि कही जाना हैं तो रात को ही अपने कपड़े तैयार कर के रख लो।आपने बताया कि अक्सर ईसान को उसी चीज की क्रेविंग होती हैं जो उसको मन हैं जैसे शुगर के patient को मीठा खाने की होती हैं।जबकि उसको पता हैं कि मीठा उसके शरीर के लिए अच्छा नहीं हैं फिर भी वो सोचता है कोई नहीं मिठाई खा लेता हुआ एक गोली extra खा लूंगा।आपने बताया कि हर समय किसी ओर का विचार न करके अपना विचार करो।आपको दिन में बहुत समय मिलता हैं लेकिन आपको क्रेविंग ही नहीं होती अपना विवेक जाग्रत करने की।शुक्राना गुरुजी ",
+        "yogiName": "Sant Gudiyaji"
+      },
+      {
+        "date": "20-06-2026",
+        "star": false,
+        "vachanId": "Vc003",
+        "vachanMessage": "",
+        "vachanMessageEnglish": "",
+        "vachanMessageHindi": "िचार \n\nजीवन हमारा है विचारों की गंगा।\nविचार ही बनाये हमारे साथी बुरा और चंगा।\nविचार ही बनायें हमें ज्ञानी और ध्यानी।\nविचार ही करें हमारा चरित्र नंगा।\n\nविचारों से ही लें हम घर वाली से पंगा।\nविचार ही बढ़ाएं प्यार और मुहब्बत ,\nविचार ही कराएं कहीं फसाद और दंगा।\nसत्संग से आयें हमेशां विचार चंगा।\n\nविचारों की दुनिया बढ़ी निराली।\nकहीं पे इनसे पतझड़ कही यह लायें हरयाली।\nअच्छे संग से बने अच्छी जीवन शैली।\nबुरे विचारों से हो जाये यह मैली ।\n\nविचार विवेक की चाभी कहलाये।\nविवेक जागने से बिगड़ा काम भी ठीक हो जाए।\nआ सत्संग में तेरा विवेक खुल जाए।\nबाहरी दुनिया से तोड़ राब्ता तुझे तेरा ही अनुभव कराए।\n\nजैसे घर की रेगुलर सफाई करना जरूरी।\nऐसे ही मन से हमेशा लड़ना जरूरी।\n healthy aur  wise बनने के लिए,\nजल्दी उठना है तेरी मजबूरी।",
+        "yogiName": "Sant KishanChandji"
+      },
+      {
+        "date": "20-06-2026",
+        "star": false,
+        "vachanId": "Vc004",
+        "vachanMessage": "",
+        "vachanMessageEnglish": "",
+        "vachanMessageHindi": "गुरुजी आज की सुंदर वाणी वाणी में बहुत प्यारी बात चली आत्म बल को बढ़ाते चलो मन की अभियान को हटाते चलो, आत्म बल से शक्तियां जागृत होती है अभियान से वीकनेस आती है, गुरुजी के ज्ञान की समझ की हर पल खुशी करो, हमें खुद के जीवन को ठीक रखना है, हर बल्ब में आनंद मस्ती में रहो अपने जीवन को नाव की तरह बना पहले खुद बनाओ फिर सबको पार लगाओ, सबको खुशियां बातें चलो छोटे-छोटे काम की भी सब की तारीफ करो, देह के करम साथ आते हैं कोई शरीर से दुखी किसी के बच्चे जन्म से ही कमजोर होते हैं, बीमार को बीमार नहीं स्पेशल चाइल्ड, जैसे ही ज्ञान की समझ आती है वैसे ही कर्म की गति भी समझ में आ जाती है गुरुजी के ज्ञान से जैसे ही भेद खत्म होता है फिर गुरु मत से एकता होने लगती है, गुरु वाक्य सत्यम से ही आत्म बल बढ़ता है, मीठी बात को तुरंत ऊंची बात से ऊंचा कर दो, सब भगवान से ही हुआ है सब भगवान ही हुआ है, हर मिठाई में मीठा छुपा हुआ है, जैन मुनि का एग्जांपल देकर इतने बड़े शरीर में पीड़ा होने पर लेश मात्र भी चेहरे पर शिकन नहीं, देह तू जानी है मोह कैसा , गहरी संबंध के कारण जरा सी पीड़ा होती है डॉक्टर की सुई को देखकर मेंढक की तरह उछलते हैं, अपनी कमियों को भी जाने वाले, भाषा के उदाहरण से कितना अच्छा समझाया, भले ही सब तरह के शरीर है लेकिन क्वालिटी अगर है क्या चिड़िया ने कभी देखकर कहा कि तुम मोटी है, बजती शहनाई को भी देखने वाला और मातम को भी देखने वाला, दोनों को जानने वाला, ज्ञान देर से कभी अप्लाई नहीं हो सकता , अनंत शुकराना गुरुजी",
+        "yogiName": "Sant Jyoti Kwatraji"
+      },
+      {
+        "date": "16-06-2026",
+        "star": false,
+        "vachanId": "Vc005",
+        "vachanMessage": "Hari om. Guru ji ,sat ka sahara na toota h na chhootta h.gayaan ka arth h khud ko jaan ana.apne vicharhi dukhi kartehnejo karam hne bhugtne hi hne.hmara vishvas ham each आता h.poorn vishvas prbhu per aur guru par rakhnah.jaisr na k ji ne kaha ki gyani ko dukh vichlit nahni kar sakte\n.har pal chintan ,nizh hay ,bhakti mne rahna har ghatna se bachata h.gayan mne rahne se ghatnayne hum par asar nikarnegi .vishvas bhagvan ka doosra naam h.bhagvan ke anant naam hne.aatm nizh hyi yogi bade bade dukh mne bhishukra a karta h.aise ya vaise sab theek mano.apne vishvas  ko reconditio nnahni kare getab tak condition  mne nahni aaaege.jai budh ke ek shishy ne kaha ki mneaap mne auraap keva vachno ko saty ki kasoti parkas karapne anubhav mne lata hnu.hamara vishvas bhi shalvputar jaisa hona chahiye  .Guru vachno ko 100 प्रतिशत anubhav .ne lana h hme vachno aur khud mne एकाकार  hona hoga.bhut achh laga guru jiदो दिन काजीवन  तेरा शुक्र के गुजार दे.jis pathar ko utha nahni sakte usse galese laga lo.pareshAni me prmarma ke darshan seusska savroop badal jata h.mayapati ka darshan ussi ki maya mne samjhoto maya tang ni karti.  Har ghatit ghatna mne hoti bhalai ye sab roti prbhu ne banaai \nGuru ji fil ka business karte h eun ke vachno ko dil se mana h .दिल दे सिहासन  उसे कौन आ के \nबै गया,मै मेरी मिट ग ई तू ही तू रह गया .\nबहुत  बहुत धन्यवाद  गुरु जी शुकराना गुरू जी .🙏🏼🙏🏼🌹",
+        "vachanMessageEnglish": "",
+        "vachanMessageHindi": "",
+        "yogiName": "Sant Kailashji"
+      }
+    ],
+    "videos": [
+      {
+        "date": "11-06-2026",
+        "star": false,
+        "videoId": "KVbuWluXJkE?si=6cq9m8vgE57E4NQF",
+        "videoLink": "https://www.youtube-nocookie.com/embed/KVbuWluXJkE?si=6cq9m8vgE57E4NQF",
+        "videoName": "दादा भगवान की बगिया की Anniversary"
+      },
+      {
+        "date": "07-06-2026",
+        "star": false,
+        "videoId": "uEwc2yTWGoQ",
+        "videoLink": "https://www.youtube-nocookie.com/embed/uEwc2yTWGoQ",
+        "videoName": "आत्मा राम क्या होता है"
+      },
+      {
+        "date": "09-06-2026",
+        "star": false,
+        "videoId": "uX9p5jq48cg",
+        "videoLink": "https://www.youtube-nocookie.com/embed/uX9p5jq48cg",
+        "videoName": "तेरा ख्याल तुझे दुखी ना करे ग़लत पॉइंट कैसे"
+      },
+      {
+        "date": "02-06-2026",
+        "star": false,
+        "videoId": "YpsxaxWb_sU",
+        "videoLink": "https://www.youtube-nocookie.com/embed/YpsxaxWb_sU",
+        "videoName": "मद - सूक्ष्म अहंकार"
+      },
+      {
+        "date": "04-06-2026",
+        "star": false,
+        "videoId": "GilVb4BjAyk",
+        "videoLink": "https://www.youtube-nocookie.com/embed/GilVb4BjAyk",
+        "videoName": "दुख-सुख का पूरक"
+      },
+      {
+        "date": "31-05-2026",
+        "star": false,
+        "videoId": "YcWq0MFA5K8",
+        "videoLink": "https://www.youtube-nocookie.com/embed/YcWq0MFA5K8",
+        "videoName": "गधा ही तो खोला है"
+      },
+      {
+        "date": "29-05-2026",
+        "star": false,
+        "videoId": "-ZGgU_VtSgA",
+        "videoLink": "https://www.youtube-nocookie.com/embed/-ZGgU_VtSgA",
+        "videoName": "ईद का ताबीज़"
+      },
+      {
+        "date": "14-06-2026",
+        "star": false,
+        "videoId": "VIoYt2mphps",
+        "videoLink": "https://www.youtube-nocookie.com/embed/VIoYt2mphps",
+        "videoName": "ध्यान का स्वामी कौन ? "
+      },
+      {
+        "date": "16-06-2026",
+        "star": false,
+        "videoId": "7JMMux5hWCI",
+        "videoLink": "https://www.youtube-nocookie.com/embed/7JMMux5hWCI",
+        "videoName": "ईमान गुरु वचनों में"
+      },
+      {
+        "date": "18-06-2026",
+        "star": false,
+        "videoId": "lr2SSA4--6c?si=IkSFCf89f9FHtO0_",
+        "videoLink": "https://www.youtube-nocookie.com/embed/lr2SSA4--6c?si=IkSFCf89f9FHtO0_",
+        "videoName": "शेष नाग मेरा अवतार"
+      },
+      {
+        "date": "20-06-2026",
+        "star": false,
+        "videoId": "MfvxdUjwrXg",
+        "videoLink": "https://www.youtube-nocookie.com/embed/MfvxdUjwrXg",
+        "videoName": "विचार से विचार शून्य यात्रा "
+      },
+      {
+        "date": "23-06-2026",
+        "star": true,
+        "videoId": "_LTCm7ltKhk?si=wjdO2Wy3675qf6ar",
+        "videoLink": "https://www.youtube-nocookie.com/embed/_LTCm7ltKhk?si=wjdO2Wy3675qf6ar",
+        "videoName": "नव ग्रह गुरु चरणों में"
+      },
+      {
+        "date": "25-06-2026",
+        "star": false,
+        "videoId": "dPHfIYdnq7M?si=prd_J13pkZN6IX70",
+        "videoLink": "https://www.youtube-nocookie.com/embed/dPHfIYdnq7M?si=prd_J13pkZN6IX70",
+        "videoName": "तीन अमृत और सच्ची Maturity "
+      }
+    ]
+  },
+  "isSuccess": true,
+  "status": "200 OK"
+}
