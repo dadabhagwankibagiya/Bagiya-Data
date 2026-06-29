@@ -3,10 +3,10 @@
     "alerts": [
       {
         "alertId": "Al001",
-        "alertMessage": "Sunday \n5:00 PM to 6:30 PM",
-        "alertShortMessage": "Sunday \n5:00 PM to 6:30 PM",
+        "alertMessage": "Tuesday \n7:30 AM to 8:30 AM",
+        "alertShortMessage": "Tuesday \n7:30 AM to 8:30 AM",
         "alertTitle": "Satsang Invitation",
-        "date": "28-06-2026",
+        "date": "30-06-2026",
         "location": "Address: Gali No 1\nBihari Colony, Delhi 32\nOpposite Bhagat Dairy",
         "star": false
       }
@@ -14,10 +14,10 @@
     "notifications": [
       {
         "notiId": "NT001",
-        "notiMessage": "आइए, इस रविवार दादा भगवान के सत्संग में चलें। सत्संग का समय शाम 5:00 बजे से 6:30 बजे तक है। आपका स्नेहपूर्वक स्वागत है।",
-        "notiShortMessage": "S",
+        "notiMessage": "आइए, इस मंगलवार सुबह दादा भगवान के सत्संग में चलें। सत्संग का समय सुबह 7:30 बजे से 8:30 बजे तक है। आपका स्नेहपूर्वक स्वागत है।",
+        "notiShortMessage": "आइए, इस मंगलवार सुबह दादा भगवान के सत्संग में चलें। सत्संग का समय सुबह 7:30 बजे से 8:30 बजे तक है। आपका स्नेहपूर्वक स्वागत है।",
         "notiTitle": "🙏 हरिओम 🙏",
-        "date": "28-06-2026",
+        "date": "30-06-2026",
         "location": "Address: Gali No 1\nBihari Colony, Delhi 32\nOpposite Bhagat Dairy",
         "star": false
       }
@@ -246,6 +246,13 @@
         "videoId": "dPHfIYdnq7M?si=prd_J13pkZN6IX70",
         "videoLink": "https://www.youtube-nocookie.com/embed/dPHfIYdnq7M?si=prd_J13pkZN6IX70",
         "videoName": "तीन अमृत और सच्ची Maturity "
+      },
+      {
+        "date": "28-06-2026",
+        "star": false,
+        "videoId": "lPcp-5zLi6g?si=_M6PDoy-Szok-9fd",
+        "videoLink": "https://www.youtube-nocookie.com/embed/lPcp-5zLi6g?si=ijJZ74qbmCB5oZtv",
+        "videoName": "दादा और नानक जी का अद्वैत दर्शन "
       }
     ]
   },
