@@ -129,7 +129,7 @@
       },
       {
         "date": "25-06-2026",
-        "star": true,
+        "star": false,
         "vachanId": "Vc003",
         "vachanMessage": "",
         "vachanMessageEnglish": "",
