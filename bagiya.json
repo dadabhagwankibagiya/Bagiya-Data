@@ -3,10 +3,10 @@
     "alerts": [
       {
         "alertId": "Al001",
-        "alertMessage": "Tuesday \n7:30 AM to 8:30 AM",
-        "alertShortMessage": "Tuesday \n7:30 AM to 8:30 AM",
+        "alertMessage": "Thrusday \n7:30 AM to 8:30 AM",
+        "alertShortMessage": "Thrusday \n7:30 AM to 8:30 AM",
         "alertTitle": "Satsang Invitation",
-        "date": "30-06-2026",
+        "date": "02-07-2026",
         "location": "Address: Gali No 1\nBihari Colony, Delhi 32\nOpposite Bhagat Dairy",
         "star": false
       }
@@ -14,10 +14,10 @@
     "notifications": [
       {
         "notiId": "NT001",
-        "notiMessage": "आइए, इस मंगलवार सुबह दादा भगवान के सत्संग में चलें। सत्संग का समय सुबह 7:30 बजे से 8:30 बजे तक है। आपका स्नेहपूर्वक स्वागत है।",
-        "notiShortMessage": "आइए, इस मंगलवार सुबह दादा भगवान के सत्संग में चलें। सत्संग का समय सुबह 7:30 बजे से 8:30 बजे तक है। आपका स्नेहपूर्वक स्वागत है।",
+        "notiMessage": "आइए, इस गुरुवार सुबह दादा भगवान के सत्संग में चलें। सत्संग का समय सुबह 7:30 बजे से 8:30 बजे तक है। आपका स्नेहपूर्वक स्वागत है।",
+        "notiShortMessage": "आइए, इस गुरुवार सुबह दादा भगवान के सत्संग में चलें। सत्संग का समय सुबह 7:30 बजे से 8:30 बजे तक है। आपका स्नेहपूर्वक स्वागत है।\n",
         "notiTitle": "🙏 हरिओम 🙏",
-        "date": "30-06-2026",
+        "date": "02-07-2026",
         "location": "Address: Gali No 1\nBihari Colony, Delhi 32\nOpposite Bhagat Dairy",
         "star": false
       }
@@ -249,10 +249,17 @@
       },
       {
         "date": "28-06-2026",
-        "star": true,
+        "star": false,
         "videoId": "lPcp-5zLi6g?si=_M6PDoy-Szok-9fd",
         "videoLink": "https://www.youtube-nocookie.com/embed/lPcp-5zLi6g?si=ijJZ74qbmCB5oZtv",
         "videoName": "दादा और नानक जी का अद्वैत दर्शन "
+      },
+      {
+        "date": "30-06-2026",
+        "star": true,
+        "videoId": "pIXnHPDpc6w?si=vATgiWJIJYhEu9Z_",
+        "videoLink": "https://www.youtube-nocookie.com/embed/pIXnHPDpc6w?si=vATgiWJIJYhEu9Z_",
+        "videoName": "आत्मा का पहला गुण तृप्ती"
       }
     ]
   },
